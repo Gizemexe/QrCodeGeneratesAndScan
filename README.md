@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # About Project
   A simple mobile application that generates and scans QR codes. <br>
-  --> ![lv_0_20240219194546](https://github.com/Gizemexe/QrCodeGeneratesAndScan/assets/108283247/767fff7c-da38-4f24-b8a4-9212fd406b7b)
+  --> ![lv_0_20240219194546](https://github.com/Gizemexe/QrCodeGeneratesAndScan/assets/108283247/2d68ef5e-405e-43e8-b84b-b8e669463935)
